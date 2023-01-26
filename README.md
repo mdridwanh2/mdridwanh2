@@ -1,8 +1,8 @@
 ### Hi there 👋, Hi, i am Ridwan
 #### Web Developer
-![Web Developer](https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/307031584_3310575979167320_4896639544826503016_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFAg8XiCLZgVkB80EuEJN8sVuID5zXmcrRW4gPnNeZytE1qio-ioeuyvUyleZdTpYRJSwy_YmVtJuX4PoaR2Dmk&_nc_ohc=u70B4mp1dtkAX_CFHUN&_nc_ht=scontent.fcgp3-1.fna&oh=00_AfCvxd2Iafk6k6t9cCc2tB7XTaB3kzplsSGDal0jH4yAig&oe=63D0F8BD)
+![web designer](https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/307031584_3310575979167320_4896639544826503016_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFAg8XiCLZgVkB80EuEJN8sVuID5zXmcrRW4gPnNeZytE1qio-ioeuyvUyleZdTpYRJSwy_YmVtJuX4PoaR2Dmk&_nc_ohc=u70B4mp1dtkAX_CFHUN&_nc_ht=scontent.fcgp3-1.fna&oh=00_AfCvxd2Iafk6k6t9cCc2tB7XTaB3kzplsSGDal0jH4yAig&oe=63D0F8BD)
 
-My name is Ridwan. As a web designer & Mobile app Developer, I have a passion for creating intuitive and engaging digital experiences. With a strong background in design and a natural curiosity for how people interact with technology, I thrive on turning complex problems into simple and elegant solutions.
+My name is Ridwan. As a web designer. I have a passion for creating intuitive and engaging digital experiences. With a strong background in design and a natural curiosity for how people interact with technology, I thrive on turning complex problems into simple and elegant solutions.
 
 I am a strong believer in the power of design to drive business success and improve people's lives. I am excited to continue learning and growing as a designer, and to have the opportunity to make a positive impact through my work.
 
